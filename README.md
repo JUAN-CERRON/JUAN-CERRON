@@ -75,16 +75,26 @@
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+<!-- CAMBIA "juan-cerron" POR TU USUARIO REAL -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juan-cerron&show_icons=true&theme=tokyonight)
+
+![Racha](https://github-readme-streak-stats.herokuapp.com/?user=juan-cerron&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-cerron&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 Actividad
+
+![Actividad](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juan-cerron&theme=tokyonight)
 
 ---
 
 ## 📫 Contacto
 
 📧 juancerron2407@gmail.com  
-🐙 https://github.com/TU_USUARIO  
+🐙 https://github.com/juan-cerron  
 
 ---
 
