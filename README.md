@@ -1,81 +1,93 @@
-<h1 align="center">👋 Hola, soy Juan Cerron Olarte</h1>
+# 👋 Hola, soy Juan Cerron
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Enthusiast;Machine+Learning+Developer;Python+%7C+SQL+%7C+AI;Siempre+aprendiendo+nuevas+tecnologías&center=true&width=500&height=45">
-</p>
+💻 Apasionado por la tecnología, la Ciencia de Datos y la Inteligencia Artificial  
+🚀 Enfocado en Machine Learning, análisis de datos y desarrollo de soluciones inteligentes  
 
 ---
 
 ## 🚀 Sobre mí
 
-🎓 Estudiante enfocado en tecnología y análisis de datos  
-💡 Interesado en Machine Learning, IA y Big Data  
-📊 Apasionado por convertir datos en decisiones inteligentes  
+🎓 Estudiante de tecnología  
+📊 Interesado en Data Science, AI y Big Data  
+🧠 En constante aprendizaje  
 🌎 Perú  
 
 ---
 
 ## 🧠 Tecnologías y herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,git,github" />
-</p>
+### 🔹 Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<p align="center">
-  
+---
+
+### 🔹 IA & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge)
 
-</p>
+---
+
+### 🔹 Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+---
+
+### 🔹 DevOps & Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+### 🔹 Mobile & Cloud
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+---
+
+### 🔹 Ciberseguridad & Hardware
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
 
 ---
 
 ## 📂 Proyectos Destacados
 
-🔹 📊 Análisis de datos con Python (Pandas + NumPy)  
-🔹 🤖 Modelo de predicción con Machine Learning  
-🔹 📈 Dashboard interactivo en Power BI  
+🔹 📊 Análisis de datos con Python  
+🔹 🤖 Modelos de Machine Learning  
+🔹 📈 Dashboards en Power BI  
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" height="150">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true">
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
 
 ---
 
-## 📈 Actividad
+## 📫 Contacto
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=tokyonight">
-</p>
-
----
-
-## 📫 Conecta conmigo
-
-<p align="center">
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
+📧 juancerron2407@gmail.com  
+🐙 https://github.com/TU_USUARIO  
 
 ---
 
-<p align="center">
-  ⚡ "Transformando datos en conocimiento"
-</p>
+## ⚡ Frase
+
+🚀 *Transformando datos en conocimiento para generar impacto real*
