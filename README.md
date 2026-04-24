@@ -1,53 +1,81 @@
-<!-- PRESENTACIÓN -->
-<div class="card">
-    <h1>👋 Hola, soy Juan Cerron Olarte</h1>
-    <p>💻 Estudiante apasionado por la tecnología, el análisis de datos y el desarrollo de software.</p>
-    <p>🚀 Enfocado en Machine Learning, Ciencia de Datos y desarrollo de soluciones inteligentes.</p>
-</div>
+<h1 align="center">👋 Hola, soy Jhuan Cerron Olarte</h1>
 
-<!-- TECNOLOGÍAS -->
-<div class="card">
-    <h2>🚀 Tecnologías y herramientas</h2>
-    <div class="skills">
-        <span>Python</span>
-        <span>SQL</span>
-        <span>Pandas</span>
-        <span>TensorFlow</span>
-        <span>Machine Learning</span>
-        <span>Deep Learning</span>
-        <span>Data Science</span>
-        <span>NumPy</span>
-        <span>Matplotlib</span>
-        <span>Scikit-learn</span>
-        <span>Power BI</span>
-        <span>Git</span>
-        <span>GitHub</span>
-        <span>Excel Avanzado</span>
-        <span>Big Data</span>
-        <span>Data Analytics</span>
-    </div>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Enthusiast;Machine+Learning+Developer;Python+%7C+SQL+%7C+AI;Siempre+aprendiendo+nuevas+tecnologías&center=true&width=500&height=45">
+</p>
 
-<!-- PROYECTOS -->
-<div class="card">
-    <h2>📂 Proyectos Destacados</h2>
-    <ul>
-        <li>📊 Sistema de análisis de datos con Python y Pandas</li>
-        <li>🤖 Modelo de Machine Learning para predicción</li>
-        <li>📈 Dashboard interactivo en Power BI</li>
-    </ul>
-</div>
+---
 
-<!-- ESTADÍSTICAS GITHUB -->
-<div class="card">
-    <h2>📊 Estadísticas de GitHub</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages">
-</div>
+## 🚀 Sobre mí
 
-<!-- CONTACTO -->
-<div class="card">
-    <h2>📫 Contacto</h2>
-    <p>Email: tuemail@gmail.com</p>
-    <p>GitHub: <a href="https://github.com/TU_USUARIO" target="_blank">github.com/TU_USUARIO</a></p>
-</div>
+🎓 Estudiante enfocado en tecnología y análisis de datos  
+💡 Interesado en Machine Learning, IA y Big Data  
+📊 Apasionado por convertir datos en decisiones inteligentes  
+🌎 Perú  
+
+---
+
+## 🧠 Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,git,github" />
+</p>
+
+<p align="center">
+  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge)
+
+</p>
+
+---
+
+## 📂 Proyectos Destacados
+
+🔹 📊 Análisis de datos con Python (Pandas + NumPy)  
+🔹 🤖 Modelo de predicción con Machine Learning  
+🔹 📈 Dashboard interactivo en Power BI  
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" height="150">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## 📈 Actividad
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=tokyonight">
+</p>
+
+---
+
+## 📫 Conecta conmigo
+
+<p align="center">
+  <a href="mailto:tuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ "Transformando datos en conocimiento"
+</p>
