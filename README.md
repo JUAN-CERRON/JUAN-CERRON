@@ -1,16 +1,107 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Perfil - Jhuan Cerron Olarte</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #0d1117;
+            color: #c9d1d9;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #58a6ff;
+        }
+        .card {
+            background: #161b22;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        .skills span {
+            display: inline-block;
+            background: #21262d;
+            margin: 5px;
+            padding: 8px 12px;
+            border-radius: 8px;
+        }
+        img {
+            max-width: 100%;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+        a {
+            color: #58a6ff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
 
-<!--
-**JUAN-CERRON/JUAN-CERRON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="container">
 
-Here are some ideas to get you started:
+    <!-- PRESENTACIÓN -->
+    <div class="card">
+        <h1>👋 Hola, soy Jhuan Cerron Olarte</h1>
+        <p>💻 Estudiante apasionado por la tecnología, el análisis de datos y el desarrollo de software.</p>
+        <p>🚀 Enfocado en Machine Learning, Ciencia de Datos y desarrollo de soluciones inteligentes.</p>
+    </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <!-- TECNOLOGÍAS -->
+    <div class="card">
+        <h2>🚀 Tecnologías y herramientas</h2>
+        <div class="skills">
+            <span>Python</span>
+            <span>SQL</span>
+            <span>Pandas</span>
+            <span>TensorFlow</span>
+            <span>Machine Learning</span>
+            <span>Deep Learning</span>
+            <span>Data Science</span>
+            <span>NumPy</span>
+            <span>Matplotlib</span>
+            <span>Scikit-learn</span>
+            <span>Power BI</span>
+            <span>Git</span>
+            <span>GitHub</span>
+            <span>Excel Avanzado</span>
+            <span>Big Data</span>
+            <span>Data Analytics</span>
+        </div>
+    </div>
+
+    <!-- PROYECTOS -->
+    <div class="card">
+        <h2>📂 Proyectos Destacados</h2>
+        <ul>
+            <li>📊 Sistema de análisis de datos con Python y Pandas</li>
+            <li>🤖 Modelo de Machine Learning para predicción</li>
+            <li>📈 Dashboard interactivo en Power BI</li>
+        </ul>
+    </div>
+
+    <!-- ESTADÍSTICAS GITHUB -->
+    <div class="card">
+        <h2>📊 Estadísticas de GitHub</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages">
+    </div>
+
+    <!-- CONTACTO -->
+    <div class="card">
+        <h2>📫 Contacto</h2>
+        <p>Email: tuemail@gmail.com</p>
+        <p>GitHub: <a href="https://github.com/TU_USUARIO" target="_blank">github.com/TU_USUARIO</a></p>
+    </div>
+
+</div>
+
+</body>
+</html>
