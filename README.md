@@ -1,6 +1,6 @@
 <!-- PRESENTACIÓN -->
 <div class="card">
-    <h1>👋 Hola, soy Jhuan Cerron Olarte</h1>
+    <h1>👋 Hola, soy Juan Cerron Olarte</h1>
     <p>💻 Estudiante apasionado por la tecnología, el análisis de datos y el desarrollo de software.</p>
     <p>🚀 Enfocado en Machine Learning, Ciencia de Datos y desarrollo de soluciones inteligentes.</p>
 </div>
